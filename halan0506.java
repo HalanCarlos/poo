@@ -15,15 +15,15 @@ conta c1 = nem conta ();
 c1.nomero = "1234-5";
 c1.titular = p1;
 c1.saldo = 100,0;
-c1.limite = 200.0;
+c1.limite = 150.0;
 
 
 
 
 conta c2 = new conta ();
-c2.nomero = "1234-5";
-c2.titular = p1;
-c2.saldo = 100,0;
+c2.nomero = "2345-6";
+c2.titular = p2;
+c2.saldo = 150,0;
 c2.limite = 200.0;
 
 
